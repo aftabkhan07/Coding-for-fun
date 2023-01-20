@@ -21,13 +21,6 @@ for main in mains:
 
 
 
-
-
-
-
-
-
-
 # titles = soup.find_all("h3")
 # # # heads = soup.find_all("h4")
 
